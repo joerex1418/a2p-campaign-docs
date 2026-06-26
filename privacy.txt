@@ -9,4 +9,4 @@ This information is used solely to provide SMS/MMS functionality and is not sold
 
 Message data may be processed by third-party providers including Twilio and mobile carriers.
 
-If you wish to stop receiving messages, please contact joe.rechenmacher@gmail.com.
+If you wish to stop receiving messages, please contact magicdining23@gmail.com.
